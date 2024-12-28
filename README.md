@@ -3,6 +3,7 @@
 ![banner](assets/image.png)
 
 OpenLoop Network is a decentralized wireless network built to enhance Internet service delivery, making it more efficient, accessible, and rewarding for everyone.
+
 Use my code if u want:
    ```bash
    ol3310b129
