@@ -43,7 +43,7 @@ Use my code if u want:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rambeboy/openloop-bot.git && cd openloop-bot
+   git clone https://github.com/himiko3939/oplop.git
    ```
 2. Install dependencies:
    ```bash
